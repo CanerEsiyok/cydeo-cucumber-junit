@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="23.538">
-    <testcase classname="Google search functionality" name="Search page title verification" time="5.575">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="22.879">
+    <testcase classname="Google search functionality" name="Search page title verification" time="6.16">
         <system-out>
             <![CDATA[When user is on google search page..........................................passed
 Then user should see title is Google........................................passed
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Google search functionality" name="Search functionality result title verification" time="8.48">
+    <testcase classname="Google search functionality" name="Search functionality result title verification" time="8.345">
         <system-out>
             <![CDATA[Given user is on google search page.........................................passed
 When user types apple and clicks enter......................................passed
@@ -15,7 +15,7 @@ Then user sees apple in the google title....................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Google search functionality" name="Search functionality result title verification 2" time="9.21">
+    <testcase classname="Google search functionality" name="Search functionality result title verification 2" time="8.095">
         <system-out>
             <![CDATA[Given user is on google search page.........................................passed
 When user types "apple" and clicks enter....................................passed
