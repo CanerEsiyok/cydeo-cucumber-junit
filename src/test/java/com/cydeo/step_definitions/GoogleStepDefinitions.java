@@ -13,7 +13,7 @@ public class GoogleStepDefinitions {
     public void user_is_on_google_search_page() {
         Driver.getDriver().get("https://www.google.com");
 
-        googleSearchPage.cookies.click();
+       // googleSearchPage.cookies.click();
 
     }
     @Then("user should see title is Google")
