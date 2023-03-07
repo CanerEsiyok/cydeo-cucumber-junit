@@ -1,4 +1,4 @@
-@smoke
+
 Feature: TC #: Order place scenario
 
   Scenario: User should be able to place order and order seen in web table
