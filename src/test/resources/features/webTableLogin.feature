@@ -1,3 +1,4 @@
+@smoke
 Feature: USer should be able to login with correct credentials
 
 
