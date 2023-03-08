@@ -24,7 +24,7 @@ Feature: Wikipedia Search Functionality
 
     Examples: search values we are going to use in this scenario are as below
       | searchValue       | expectedTitle     | expectedMainHeader |
-      | Steve Jobs        | Steve Jobs        | Steve Jobs         |
+      | Steve Jobs        | Steve Job        | Steve Jobs         |
       | Cristiano Ronaldo | Cristiano Ronaldo | Cristiano Ronaldo  |
       | Kate Winslet      | Kate Winslet      | Kate Winslet       |
       | Lady Gaga         | Lady Gaga         | Lady Gaga          |
